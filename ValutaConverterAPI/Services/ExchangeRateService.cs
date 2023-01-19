@@ -26,7 +26,7 @@ namespace ValutaConverterAPI.Services
                 {
                     CurrencyRate = exchangeRate.ToString(),
                     CurrencyName = currencyName,
-                    Date = DateTime.Now.ToString("HH:mm-dd.MM.yyyy")
+                    Date = DateTime.Now.AddHours(1).ToString("HH:mm-dd.MM.yyyy")
                 };
 
             }

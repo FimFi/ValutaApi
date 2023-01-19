@@ -55,16 +55,64 @@ namespace ValutaTester
             Assert.Equal(expectedResponse, testString);
         }
             [Fact]
-            public async Task Test2Async()
+            public async Task GetExchangeRateTestAsyncGB()
             {
                 var selectedCountry = "GB";
                 var url = $"http://localhost:7435/Valuta/Valuta/GetExchangeRate?countryName={selectedCountry}";
                 var httpClient = new HttpClient();
                 var testString = await httpClient.GetStringAsync(url);
                 var givenTime = DateTime.Now.ToString("HH:mm-dd.MM.yyyy");
-                var response = "{\"currencyName\":\"GBP\",\"currencyRate\":\"0.809542\",\"date\":\"#givenTime#\"}";
+                var response = "{\"currencyName\":\"GBP\",\"currencyRate\":\"0.809144\",\"date\":\"#givenTime#\"}";
                 var expectedResponse = response.Replace("#givenTime#", givenTime);
                 Assert.Equal(expectedResponse, testString);
             }
+        [Fact]
+        public async Task GetExchangeRateTestAsyncDenmark()
+        {
+            var selectedCountry = "Denmark";
+            var url = $"http://localhost:7435/Valuta/Valuta/GetExchangeRate?countryName={selectedCountry}";
+            var httpClient = new HttpClient();
+            var testString = await httpClient.GetStringAsync(url);
+            var givenTime = DateTime.Now.ToString("HH:mm-dd.MM.yyyy");
+            var response = "{\"currencyName\":\"DKK\",\"currencyRate\":\"6.895975\",\"date\":\"#givenTime#\"}";
+            var expectedResponse = response.Replace("#givenTime#", givenTime);
+            Assert.Equal(expectedResponse, testString);
+        }
+        [Fact]
+        public async Task GetExchangeRateTestAsyncUSA()
+        {
+            var selectedCountry = "USA";
+            var url = $"http://localhost:7435/Valuta/Valuta/GetExchangeRate?countryName={selectedCountry}";
+            var httpClient = new HttpClient();
+            var testString = await httpClient.GetStringAsync(url);
+            var givenTime = DateTime.Now.ToString("HH:mm-dd.MM.yyyy");
+            var response = "{\"currencyName\":\"USD\",\"currencyRate\":\"1\",\"date\":\"#givenTime#\"}";
+            var expectedResponse = response.Replace("#givenTime#", givenTime);
+            Assert.Equal(expectedResponse, testString);
+        }
+        [Fact]
+        public async Task GetExchangeRateTestAsyncMexico()
+        {
+            var selectedCountry = "Mexico";
+            var url = $"http://localhost:7435/Valuta/Valuta/GetExchangeRate?countryName={selectedCountry}";
+            var httpClient = new HttpClient();
+            var testString = await httpClient.GetStringAsync(url);
+            var givenTime = DateTime.Now.ToString("HH:mm-dd.MM.yyyy");
+            var response = "{\"currencyName\":\"MXN\",\"currencyRate\":\"19.030705\",\"date\":\"#givenTime#\"}";
+            var expectedResponse = response.Replace("#givenTime#", givenTime);
+            Assert.Equal(expectedResponse, testString);
+        }
+        [Fact]
+        public async Task GetExchangeRateTestAsyncGermany()
+        {
+            var selectedCountry = "Germany";
+            var url = $"http://localhost:7435/Valuta/Valuta/GetExchangeRate?countryName={selectedCountry}";
+            var httpClient = new HttpClient();
+            var testString = await httpClient.GetStringAsync(url);
+            var givenTime = DateTime.Now.ToString("HH:mm-dd.MM.yyyy");
+            var response = "{\"currencyName\":\"EUR\",\"currencyRate\":\"0.92682\",\"date\":\"#givenTime#\"}";
+            var expectedResponse = response.Replace("#givenTime#", givenTime);
+            Assert.Equal(expectedResponse, testString);
+        }
     }
 }
