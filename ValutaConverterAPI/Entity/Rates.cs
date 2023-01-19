@@ -13,16 +13,16 @@
         public double AWG { get; set; }
         public double AZN { get; set; }
         public double BAM { get; set; }
-        public int BBD { get; set; }
+        public double BBD { get; set; }
         public double BDT { get; set; }
         public double BGN { get; set; }
         public double BHD { get; set; }
         public double BIF { get; set; }
-        public int BMD { get; set; }
+        public double BMD { get; set; }
         public double BND { get; set; }
         public double BOB { get; set; }
         public double BRL { get; set; }
-        public int BSD { get; set; }
+        public double BSD { get; set; }
         public double BTC { get; set; }
         public double BTN { get; set; }
         public double BTS { get; set; }
@@ -38,7 +38,7 @@
         public double CNY { get; set; }
         public double COP { get; set; }
         public double CRC { get; set; }
-        public int CUC { get; set; }
+        public double CUC { get; set; }
         public double CUP { get; set; }
         public double CVE { get; set; }
         public double CZK { get; set; }
@@ -49,7 +49,7 @@
         public double DOP { get; set; }
         public double DZD { get; set; }
         public double EGP { get; set; }
-        public int ERN { get; set; }
+        public double ERN { get; set; }
         public double ETB { get; set; }
         public double ETH { get; set; }
         public double EUR { get; set; }
@@ -74,7 +74,7 @@
         public double IMP { get; set; }
         public double INR { get; set; }
         public double IQD { get; set; }
-        public int IRR { get; set; }
+        public double IRR { get; set; }
         public double ISK { get; set; }
         public double JEP { get; set; }
         public double JMD { get; set; }
@@ -84,14 +84,14 @@
         public double KGS { get; set; }
         public double KHR { get; set; }
         public double KMF { get; set; }
-        public int KPW { get; set; }
+        public double KPW { get; set; }
         public double KRW { get; set; }
         public double KWD { get; set; }
         public double KYD { get; set; }
         public double KZT { get; set; }
         public double LAK { get; set; }
         public double LBP { get; set; }
-        public int LD { get; set; }
+        public double LD { get; set; }
         public double LKR { get; set; }
         public double LRD { get; set; }
         public double LSL { get; set; }
@@ -120,7 +120,7 @@
         public double NXT { get; set; }
         public double NZD { get; set; }
         public double OMR { get; set; }
-        public int PAB { get; set; }
+        public double PAB { get; set; }
         public double PEN { get; set; }
         public double PGK { get; set; }
         public double PHP { get; set; }
@@ -135,11 +135,11 @@
         public double SAR { get; set; }
         public double SBD { get; set; }
         public double SCR { get; set; }
-        public int SDG { get; set; }
+        public double SDG { get; set; }
         public double SEK { get; set; }
         public double SGD { get; set; }
         public double SHP { get; set; }
-        public int SLL { get; set; }
+        public double SLL { get; set; }
         public double SOS { get; set; }
         public double SRD { get; set; }
         public double SSP { get; set; }
@@ -157,10 +157,10 @@
         public double TRY { get; set; }
         public double TTD { get; set; }
         public double TWD { get; set; }
-        public int TZS { get; set; }
+        public double TZS { get; set; }
         public double UAH { get; set; }
         public double UGX { get; set; }
-        public int USD { get; set; }
+        public double USD { get; set; }
         public double UYU { get; set; }
         public double UZS { get; set; }
         public double VEF_BLKMKT { get; set; }
@@ -184,7 +184,7 @@
         public double YER { get; set; }
         public double ZAR { get; set; }
         public double ZMW { get; set; }
-        public int ZWL { get; set; }
+        public double ZWL { get; set; }
         public double NMC { get; set; }
         public double PPC { get; set; }
         public double NVC { get; set; }

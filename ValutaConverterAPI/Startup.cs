@@ -61,8 +61,6 @@ namespace ValutaConverterAPI
 
             app.UseRouting();
 
-            app.UseHttpsRedirection();
-
 
             app.UseAuthentication();
 

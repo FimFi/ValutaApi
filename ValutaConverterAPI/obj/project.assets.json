@@ -957,26 +957,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jigzi\\.nuget\\packages\\": {}
+    "C:\\Users\\lille\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Coding\\ValutaConverterAPI\\ValutaConverterAPI\\ValutaConverterAPI\\ValutaConverterAPI.csproj",
+      "projectUniqueName": "E:\\Work\\4th semester\\ValutaApi\\ValutaConverterAPI\\ValutaConverterAPI.csproj",
       "projectName": "ValutaConverterAPI",
-      "projectPath": "C:\\Coding\\ValutaConverterAPI\\ValutaConverterAPI\\ValutaConverterAPI\\ValutaConverterAPI.csproj",
-      "packagesPath": "C:\\Users\\jigzi\\.nuget\\packages\\",
-      "outputPath": "C:\\Coding\\ValutaConverterAPI\\ValutaConverterAPI\\ValutaConverterAPI\\obj\\",
+      "projectPath": "E:\\Work\\4th semester\\ValutaApi\\ValutaConverterAPI\\ValutaConverterAPI.csproj",
+      "packagesPath": "C:\\Users\\lille\\.nuget\\packages\\",
+      "outputPath": "E:\\Work\\4th semester\\ValutaApi\\ValutaConverterAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jigzi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\lille\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1043,7 +1045,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

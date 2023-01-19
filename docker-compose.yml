@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  ValutaConverterAPI:
+    image: ${DOCKER_REGISTRY-}valutaconverterapi
+    build:
+      context: .
+      dockerfile: ValutaConverterAPI/Dockerfile

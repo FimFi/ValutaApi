@@ -35,3 +35,45 @@ C:\Coding\ValutaConverterAPI\ValutaConverterAPI\ValutaConverterAPI\bin\Debug\net
 C:\Coding\ValutaConverterAPI\ValutaConverterAPI\ValutaConverterAPI\obj\Debug\net6.0\ValutaConverterAPI.csproj.CopyComplete
 C:\Coding\ValutaConverterAPI\ValutaConverterAPI\ValutaConverterAPI\bin\Debug\net6.0\ValutaConverterAPI.xml
 C:\Coding\ValutaConverterAPI\ValutaConverterAPI\ValutaConverterAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Work\4th semester\ValutaApi\ValutaConverterAPI\bin\Debug\net6.0\appsettings.json
+E:\Work\4th semester\ValutaApi\ValutaConverterAPI\bin\Debug\net6.0\appsettings.Development.json
+E:\Work\4th semester\ValutaApi\ValutaConverterAPI\bin\Debug\net6.0\ValutaConverterAPI.exe
+E:\Work\4th semester\ValutaApi\ValutaConverterAPI\bin\Debug\net6.0\ValutaConverterAPI.xml
+E:\Work\4th semester\ValutaApi\ValutaConverterAPI\bin\Debug\net6.0\ValutaConverterAPI.deps.json
+E:\Work\4th semester\ValutaApi\ValutaConverterAPI\bin\Debug\net6.0\ValutaConverterAPI.runtimeconfig.json
+E:\Work\4th semester\ValutaApi\ValutaConverterAPI\bin\Debug\net6.0\ValutaConverterAPI.dll
+E:\Work\4th semester\ValutaApi\ValutaConverterAPI\bin\Debug\net6.0\ValutaConverterAPI.pdb
+E:\Work\4th semester\ValutaApi\ValutaConverterAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+E:\Work\4th semester\ValutaApi\ValutaConverterAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Work\4th semester\ValutaApi\ValutaConverterAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Work\4th semester\ValutaApi\ValutaConverterAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Work\4th semester\ValutaApi\ValutaConverterAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Work\4th semester\ValutaApi\ValutaConverterAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Work\4th semester\ValutaApi\ValutaConverterAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Work\4th semester\ValutaApi\ValutaConverterAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Work\4th semester\ValutaApi\ValutaConverterAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Work\4th semester\ValutaApi\ValutaConverterAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Work\4th semester\ValutaApi\ValutaConverterAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Work\4th semester\ValutaApi\ValutaConverterAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Work\4th semester\ValutaApi\ValutaConverterAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Work\4th semester\ValutaApi\ValutaConverterAPI\obj\Debug\net6.0\ValutaConverterAPI.csproj.AssemblyReference.cache
+E:\Work\4th semester\ValutaApi\ValutaConverterAPI\obj\Debug\net6.0\ValutaConverterAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\4th semester\ValutaApi\ValutaConverterAPI\obj\Debug\net6.0\ValutaConverterAPI.AssemblyInfoInputs.cache
+E:\Work\4th semester\ValutaApi\ValutaConverterAPI\obj\Debug\net6.0\ValutaConverterAPI.AssemblyInfo.cs
+E:\Work\4th semester\ValutaApi\ValutaConverterAPI\obj\Debug\net6.0\ValutaConverterAPI.csproj.CoreCompileInputs.cache
+E:\Work\4th semester\ValutaApi\ValutaConverterAPI\obj\Debug\net6.0\ValutaConverterAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\Work\4th semester\ValutaApi\ValutaConverterAPI\obj\Debug\net6.0\ValutaConverterAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Work\4th semester\ValutaApi\ValutaConverterAPI\obj\Debug\net6.0\staticwebassets\msbuild.ValutaConverterAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Work\4th semester\ValutaApi\ValutaConverterAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.ValutaConverterAPI.props
+E:\Work\4th semester\ValutaApi\ValutaConverterAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ValutaConverterAPI.props
+E:\Work\4th semester\ValutaApi\ValutaConverterAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ValutaConverterAPI.props
+E:\Work\4th semester\ValutaApi\ValutaConverterAPI\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Work\4th semester\ValutaApi\ValutaConverterAPI\obj\Debug\net6.0\staticwebassets.build.json
+E:\Work\4th semester\ValutaApi\ValutaConverterAPI\obj\Debug\net6.0\staticwebassets.development.json
+E:\Work\4th semester\ValutaApi\ValutaConverterAPI\obj\Debug\net6.0\scopedcss\bundle\ValutaConverterAPI.styles.css
+E:\Work\4th semester\ValutaApi\ValutaConverterAPI\obj\Debug\net6.0\ValutaConverterAPI.csproj.CopyComplete
+E:\Work\4th semester\ValutaApi\ValutaConverterAPI\obj\Debug\net6.0\ValutaConverterAPI.dll
+E:\Work\4th semester\ValutaApi\ValutaConverterAPI\obj\Debug\net6.0\refint\ValutaConverterAPI.dll
+E:\Work\4th semester\ValutaApi\ValutaConverterAPI\obj\Debug\net6.0\ValutaConverterAPI.pdb
+E:\Work\4th semester\ValutaApi\ValutaConverterAPI\obj\Debug\net6.0\ValutaConverterAPI.genruntimeconfig.cache
+E:\Work\4th semester\ValutaApi\ValutaConverterAPI\obj\Debug\net6.0\ref\ValutaConverterAPI.dll
