@@ -1,3 +1,5 @@
+using System.Diagnostics;
+
 namespace ValutaTester
 {
     public class UnitTest1
@@ -52,15 +54,17 @@ namespace ValutaTester
             var expectedResponse = "MXN";
             Assert.Equal(expectedResponse, testString);
         }
-        /*    [Fact]
+            [Fact]
             public async Task Test2Async()
             {
-                var selectedCountry = "Denmark";
+                var selectedCountry = "GB";
                 var url = $"http://localhost:7435/Valuta/Valuta/GetExchangeRate?countryName={selectedCountry}";
                 var httpClient = new HttpClient();
                 var testString = await httpClient.GetStringAsync(url);
-                var expectedResponse = "{"currencyName": "DKK","currencyRate": "6,882488","date": "16:19-19.01.2023"}";
+                var givenTime = DateTime.Now.ToString("HH:mm-dd.MM.yyyy");
+                var response = "{\"currencyName\":\"GBP\",\"currencyRate\":\"0.809542\",\"date\":\"#givenTime#\"}";
+                var expectedResponse = response.Replace("#givenTime#", givenTime);
                 Assert.Equal(expectedResponse, testString);
-            }*/
+            }
     }
 }
